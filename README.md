@@ -3,7 +3,8 @@
 ## App Link - https://tinder-clone-f74d9.web.app
 
 ## App Preview
-![App Preview](./src/Images/app-preview.png)
+![image](https://github.com/mohamedimmu/tinder-clone/assets/54463675/90de51d1-25d3-4a11-af27-25c447193c65)
+
 
 ## Backend code - https://github.com/mohamedimmu/tinder-backend
 
